@@ -1,0 +1,36 @@
+{
+  "name": "react-fundamentals",
+  "version": "1.0.0",
+  "description": "All fundamentals of react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhaveshM11/react-project.git"
+  },
+  "keywords": [
+    "react",
+    "react-dom",
+    "bhavesh-mandle"
+  ],
+  "author": "Bhavesh mandle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhaveshM11/react-project/issues"
+  },
+  "homepage": "https://github.com/bhaveshM11/react-project#readme",
+  "devDependencies": {
+    "parcel": "^2.11.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 10 versions"
+  ]
+}
